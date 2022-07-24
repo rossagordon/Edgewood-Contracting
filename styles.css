@@ -37,14 +37,12 @@ h2, h4 {
     padding: 15px;
     color: #fff;
     width: 100%;
+    font-family: 'Coda';
+
 }
 
 #footer .btn {
     color: #fff;
-}
-
-.btn-social {
-    
 }
 
 .btn-social:hover, .btn-social:focus, .btn-social:active, .btn-social.active {
